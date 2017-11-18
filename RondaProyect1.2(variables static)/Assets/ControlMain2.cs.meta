@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59a37462107f3ce499dbe461318ee130
+timeCreated: 1510417136
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - celulaDefault: {instanceID: 0}
+  - celulaDividir: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
