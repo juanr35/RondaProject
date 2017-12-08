@@ -1,2 +1,6 @@
 César Barrios
 Juan Romay
+
+El ejecutable es para windows, necesitabamos Android Studio para conseguir la apk desde unity pero debido al poco tiempo y la dificultad que significa bajar y correr ese programa decidimos poner solo el ejecutable de windows. Pero bien se sabe que unity es capaz de exportar a casi todas las plataformas. Se encuentra en Ronda.exe
+
+La defensa del proyecto esta en youtube https://youtu.be/txPm_h25zcQ
