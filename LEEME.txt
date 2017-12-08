@@ -1,5 +1,5 @@
-César Barrios
-Juan Romay
+César Barrios. V-21226140. davega066@gmail.com	
+Juan Romay.  V-23715879 juanr35@gmail.com
 
 El ejecutable es para windows, necesitabamos Android Studio para conseguir la apk desde unity pero debido al poco tiempo y la dificultad que significa bajar y correr ese programa decidimos poner solo el ejecutable de windows. Pero bien se sabe que unity es capaz de exportar a casi todas las plataformas. Se encuentra en Ronda.exe
 
