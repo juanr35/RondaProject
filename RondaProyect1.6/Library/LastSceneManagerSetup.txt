@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SceneJuego/Ronda.unity
+- path: Assets/SceneMenu/Menu.unity
   isLoaded: 1
   isActive: 1
