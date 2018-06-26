@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D3A6FA60-E0A3-E2A1-D8D4-A9C768F24075}</ProjectGuid>
+    <ProjectGuid>{EC1E33B9-4476-8280-78C2-9341069918A2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -125,14 +125,11 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
- <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
- </Reference>
  <Reference Include="Mono.Data.Sqlite">
- <HintPath>C:/Users/roman/OneDrive/Documentos/RondaProyect2.2/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
+ <HintPath>C:/Users/roman/OneDrive/Documentos/GitHub/RondaProject/RondaProyect2.4/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
  </Reference>
  <Reference Include="System.Data">
- <HintPath>C:/Users/roman/OneDrive/Documentos/RondaProyect2.2/Assets/Plugins/System.Data.dll</HintPath>
+ <HintPath>C:/Users/roman/OneDrive/Documentos/GitHub/RondaProject/RondaProyect2.4/Assets/Plugins/System.Data.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/roman/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -158,7 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{92387A93-766E-DAB3-AF30-84B392119FAB}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{F5A7BFDA-65D3-8AAE-E5E6-F50465C5288A}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
